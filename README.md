@@ -8,7 +8,7 @@ The goal of this project is to create an autonomous mobile robot that creates a 
 ## Images Below
 
 ![image](https://user-images.githubusercontent.com/50836413/182407431-8f739654-0fb5-40e5-be24-cb9803d4b14a.png)
-<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/50836413/182407431-8f739654-0fb5-40e5-be24-cb9803d4b14a.png)" width="10"/>
+<img src="(https://user-images.githubusercontent.com/50836413/182407431-8f739654-0fb5-40e5-be24-cb9803d4b14a.png)" width="10"/>
 
 Top image shows the Mobile Robot and the bottom image is the mounted electronic. 
 
