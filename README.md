@@ -10,7 +10,7 @@ The goal of this project is to create an autonomous mobile robot that creates a 
 
 Top image shows the Mobile Robot and the bottom image is the mounted electronic. 
 
-###
+##
 <img src="https://user-images.githubusercontent.com/50836413/182407029-19c44388-bfcc-49bc-8aa9-fcf716cabe83.png" width="200" />
 
 Updated GUI that includes live streaming from the webcam and manual control options.
