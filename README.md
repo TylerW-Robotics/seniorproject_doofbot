@@ -6,12 +6,12 @@ The goal of this project is to create an autonomous mobile robot that creates a 
 
 
 ## Images Below
-<img src="https://user-images.githubusercontent.com/50836413/182407431-8f739654-0fb5-40e5-be24-cb9803d4b14a.png" width="200" />
+<img src="https://user-images.githubusercontent.com/50836413/182407431-8f739654-0fb5-40e5-be24-cb9803d4b14a.png" width="200" />[^1]
 
 [^1]: Top image shows the Mobile Robot and the bottom image is the mounted electronic. 
 
 ##
-<img src="https://user-images.githubusercontent.com/50836413/182407029-19c44388-bfcc-49bc-8aa9-fcf716cabe83.png" width="200" />
+<img src="https://user-images.githubusercontent.com/50836413/182407029-19c44388-bfcc-49bc-8aa9-fcf716cabe83.png" width="200" />[^2]
 
 [^2]: Updated GUI that includes live streaming from the webcam and manual control options.
 
